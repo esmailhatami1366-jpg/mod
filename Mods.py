@@ -15,7 +15,7 @@ import time
 import os
 import shutil
 
-GIFT_TARGET = "badr"
+GIFT_TARGET = "Badr"
 
 is_active = False
 
